@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "672572661169",
+    "project_id": "chickenbazar-by-quickgroup",
+    "storage_bucket": "chickenbazar-by-quickgroup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672572661169:android:b84897d7d14af3eea3b190",
+        "android_client_info": {
+          "package_name": "quickogroup.chickenbazar.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672572661169-u289fri8qejetp7dlmdotqp5njmr6pd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo8RiAX_AxDmY0y0W9UIjbq1EL5mHnb1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672572661169-u289fri8qejetp7dlmdotqp5njmr6pd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672572661169:android:c821ae3afc2fae5ba3b190",
+        "android_client_info": {
+          "package_name": "quickogroup.chickenbazar.com.deliver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672572661169-u289fri8qejetp7dlmdotqp5njmr6pd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo8RiAX_AxDmY0y0W9UIjbq1EL5mHnb1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672572661169-u289fri8qejetp7dlmdotqp5njmr6pd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
